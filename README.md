@@ -11,7 +11,7 @@ Currently working as an Electrical Engineer, where I apply theoretical concepts 
 
 ### 🚀 Current Projects
 I'm currently fascinated by control theory and mechanical stabilization.
-[Beam-Balance-System](https://github.com/Beam-Balance-System) – A control system project designed to balance a rod on a scale-like mechanism. This project involves PID control, sensor fusion, and real-time data processing.
+[Beam-Balance-System](https://github.com/Elsion132/Beam-Balance-System) – A control system project designed to balance a rod on a scale-like mechanism. This project involves PID control, sensor fusion, and real-time data processing.
 
 ### 🛠 Tech Stack & Tools
 Hardware: PCB Design, Microcontrollers (ESP32, LPC40x8), Sensors & Actuators.
